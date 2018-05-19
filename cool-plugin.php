@@ -1,3 +1,3 @@
 <?php 
 
-//last brew install zsh-syntax-highlighting
+//last brew install zsh-syntax-highlightings
